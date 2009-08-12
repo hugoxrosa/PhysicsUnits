@@ -31,7 +31,7 @@ module PhysicsUnit
   :mHg => 101325e3/760, 
   :torr => 101325.0/760, 
   :bar => 100000, 
-  :mH2O => 9859.503e3, 
+  :mH2O => 9859.503, 
   :atm => 101325,
   :eV => 1.60217733e-19,	# Energy unit (in joule (J))
   :cal => 4.1868,
